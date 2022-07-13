@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<devices>
+    <name>Iphone</name>
+    <date>2022-07-13T11:52:02.314+05:30</date>
+    <specification>
+        <type>SmartPhone</type>
+        <Processor>A13 bionic chip</Processor>
+        <RAM>8GB</RAM>
+    </specification>
+</devices>

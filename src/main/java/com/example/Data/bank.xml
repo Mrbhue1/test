@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FIGWebReqSvc spv="V 2.O">
+    <SvcHeader>
+        <msgFmtVer>5868db</msgFmtVer>
+        <tspAuth>gsjdga</tspAuth>
+        <tspVdrId>58528</tspVdrId>
+        <txnId>1234</txnId>
+        <txnOrigin>ygduagd</txnOrigin>
+    </SvcHeader>
+    <TxnInfo>
+        <acqId>145</acqId>
+        <agentId>4747</agentId>
+        <caId>695</caId>
+        <caLocn>184</caLocn>
+        <expDate>1970-01-01T05:30:00+05:30</expDate>
+        <funcCode>1821</funcCode>
+        <mcc>63</mcc>
+        <narration>2962</narration>
+        <orgTxnRefId>180608842</orgTxnRefId>
+        <pan>BDWPH62469</pan>
+        <posCaptCode>78146</posCaptCode>
+    </TxnInfo>
+    <AuthInfo prov="0" enc="SSHA256" rc="New">
+        <Data type="ddkjjd"/>
+        <Fmt type="hh"/>
+        <Meta udc="ndj" rdsId="23" rdsVer="jdj" dpId="87" dc="8" mi="kdhs" mc="dkhkds" bav="hkj" lot="oa" lov="kjs"/>
+        <EncInfo alg="PFDK2">
+            <SecKey ci="hj" ki="gj">gyyuoiuupoj</SecKey>
+            <Hmac>hmac</Hmac>
+        </EncInfo>
+        <Uses pi="pi" pa="pa" pfa="pfa" bio="bio" bt="bt" pin="pin" otp="otp"/>
+    </AuthInfo>
+    <ServiceInfo>
+        <TxnReqInfo>
+            <amount>28787</amount>
+            <currCode>INR</currCode>
+            <PartyList>
+                <PartyInfo type="PERSON" categ="CUSTOMER">
+                    <partyIdType>3873</partyIdType>
+                    <partyIdValue>8763873</partyIdValue>
+                    <partyOrg>66</partyOrg>
+                </PartyInfo>
+            </PartyList>
+            <AddDataElement name="hdh" value="ksagd"/>
+        </TxnReqInfo>
+    </ServiceInfo>
+</FIGWebReqSvc>
